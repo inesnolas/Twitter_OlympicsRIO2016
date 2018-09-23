@@ -1,0 +1,10 @@
+juegosolimpicos		6789
+swimming		7819
+teamusa		8478
+usa		10683
+oro		11180
+gold		14537
+olympics		20772
+openingceremony		32881
+cerimoniadeabertura		33463
+rio2016		292506

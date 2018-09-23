@@ -1,0 +1,29 @@
+aquatics	472683
+athletics	496967
+basketball	77009
+boxing	23804
+cycling	71565
+equestrian	24083
+football	322099
+hockey	7291
+rugby sevens	5015
+sailing	25076
+shooting	24376
+table tennis	4783
+tennis	89263
+triathlon	5885
+weightlifting	26034
+wrestling	35864
+archery	5723
+badminton	63813
+canoe	24582
+fencing	13777
+golf	11094
+gymnastics	138948
+handball	3523
+judo	105334
+modern pentathlon	1985
+rowing	17938
+taekwondo	16383
+volleyball	18084
+

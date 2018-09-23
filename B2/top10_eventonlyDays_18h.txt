@@ -1,0 +1,10 @@
+juegosolimpicos	7727
+gold	9052
+oro	9802
+judo	11342
+olympics	12578
+tenis	12763
+bra	13895
+arg	16641
+futebol	16674
+rio2016	245519
